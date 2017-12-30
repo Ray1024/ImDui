@@ -3,7 +3,7 @@ ImDui是一个C++实现的基于Direct2D渲染的轻量级即时渲染GUI框架�
 即时渲染类型的GUI框架适合于实时渲染的应用程序。ImDui可以应用于很多场景，比如游戏引擎编辑器和小型的程序等等。
 
 ## 使用说明
-你可以在[main.cpp]()文件中查看使用说明.
+你可以在[main.cpp](https://github.com/Ray1024/ImDui/blob/master/ImDui/main.cpp)文件中查看使用说明.
 ```
 while()
 {
@@ -42,9 +42,9 @@ while()
 ```
 
 ## 截图
-![sample1]()
+![sample1](https://github.com/Ray1024/ImDui/blob/master/samples/sample1.png)
 
-![sample2]()
+![sample2](https://github.com/Ray1024/ImDui/blob/master/samples/sample2.png)
 
 ## 示例
-示例程序: [ImDui_test]()
+示例程序: [ImDui_test](https://github.com/Ray1024/ImDui/tree/master/samples/ImDui_test)

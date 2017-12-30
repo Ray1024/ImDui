@@ -1,5 +1,5 @@
 # ImDui
-[中文说明]()
+[中文说明](https://github.com/Ray1024/ImDui/blob/master/README-cn.md)
 
 ImDui is a lightweight immediate mode graphical user interface based on Direct2D for c++. 
 It also support GPU Accelerated.
@@ -7,7 +7,7 @@ The immediate mode graphical user interface is well suited for real-time rendere
 ImDui can be used for many scenes, such as game engine editors and small tiny applications.
 
 ## Usage
-You can see the userguide in the file [main.cpp]().
+You can see the userguide in the file [main.cpp](https://github.com/Ray1024/ImDui/blob/master/ImDui/main.cpp).
 ```
 while()
 {
@@ -46,9 +46,9 @@ while()
 ```
 
 ## Screenshots
-![sample1]()
+![sample1](https://github.com/Ray1024/ImDui/blob/master/samples/sample1.png)
 
-![sample2]()
+![sample2](https://github.com/Ray1024/ImDui/blob/master/samples/sample2.png)
 
 ## Demo
-the demo application here: [ImDui_test]()
+the demo application here: [ImDui_test](https://github.com/Ray1024/ImDui/tree/master/samples/ImDui_test)
