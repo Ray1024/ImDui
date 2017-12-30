@@ -1,13 +1,9 @@
 # ImDui
-[中文说明]()
+ImDui是一个C++实现的基于Direct2D渲染的轻量级即时渲染GUI框架。它还支持GPU硬件加速。
+即时渲染类型的GUI框架适合于实时渲染的应用程序。ImDui可以应用于很多场景，比如游戏引擎编辑器和小型的程序等等。
 
-ImDui is a lightweight immediate mode graphical user interface based on Direct2D for c++. 
-It also support GPU Accelerated.
-The immediate mode graphical user interface is well suited for real-time rendered applications.
-ImDui can be used for many scenes, such as game engine editors and small tiny applications.
-
-## Usage
-You can see the userguide in the file [main.cpp]().
+## 使用说明
+你可以在[main.cpp]()文件中查看使用说明.
 ```
 while()
 {
@@ -45,10 +41,10 @@ while()
 }
 ```
 
-## Screenshots
+## 截图
 ![sample1]()
 
 ![sample2]()
 
-## Demo
-the demo application here: [ImDui_test]()
+## 示例
+示例程序: [ImDui_test]()
