@@ -721,6 +721,20 @@ namespace ImDui
 				break;
 			}
 		}
+
+		if (s_state.Events.MouseClicked)
+		{
+			for (int i = (int)s_state.Windows.size() - 1; i >=0; i--)
+			{
+				if (PtInRect(s_state.Events.MousePos, s_state.Windows[i]->Rect))
+				{
+					s_state.Windows.push_back(s_state.Windows[i]);
+					s_state.Windows.erase(s_state.Windows.begin() + i);
+
+					break;
+				}
+			}
+		}
 	}
 
 	void SetBgImage(std::string image, bool is_resized)
