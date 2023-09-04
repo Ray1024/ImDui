@@ -48,3 +48,8 @@ while()
 
 ## 示例
 示例程序: [ImDui_test](https://github.com/Ray1024/ImDui/tree/master/samples/ImDui_test)
+
+
+## 公众号
+关注公众号:江湖码客Mark，有任何问题都可解答。</br>
+![公众号](https://github.com/Ray1024/Direct2D/blob/master/images/qrcode_for_gh_16bcaf1d516e_258.jpg)
